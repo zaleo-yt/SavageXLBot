@@ -1,0 +1,2 @@
+# SavageXLBot
+bot
